@@ -11,9 +11,9 @@
 
 | *Frontend* | *Backend* | *Database* | *Devops* |
 | ----- | ----- | ----- | ----- |
-| React | Express | MySQL | Amazon AWS |
-| Java | Spring | PostgreSQL | Heroku |
-| JavaScript | Node | Redis | Docker |
+| React | Node | MySQL | Amazon AWS |
+| Java | Express | PostgreSQL | Heroku |
+| JavaScript | Spring | Redis | Docker |
 | Python | Django | | SQLite | Git |
 | HTML | Rest | | Maven
 | CSS | GraphQL | |
