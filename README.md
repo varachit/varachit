@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Varachit Wirunpat</h1>
-<h3 align="center">A passionate junior full-stack developer and self-learner programmer</h3>
+<h3 align="center">A passionate self-learner junior backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r0k0r3&label=Profile%20views&color=0e75b6&style=flat" alt="z3r0k0r3" /> </p>
 
