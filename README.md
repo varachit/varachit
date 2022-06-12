@@ -2,8 +2,8 @@
 #### A passionate self-learner junior backend developer</h3>
 
 - 🔭 I’m currently working with **vendii**.
-- 🌱 I’m currently learning ***Typescript, React, Solidity***.
-- 🤔 I’m looking for help with advanced in ***Backend Development***.
+- 🌱 I’m currently learning **Typescript, React, Solidity**.
+- 🤔 I’m looking for help with advanced in **Backend Development**.
 - ⚡ Fun fact **I am a kind, serious and non-talkative person but am an easy-going person you could talk with**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varachit/) or [varachit.wirunpat@hotmail.com](mailto:varachit.wirunpat@hotmail.com?subject=Hello)
 
