@@ -1,9 +1,5 @@
 ## 👋 Hello, I'm Varachit  🧑‍💻
-### A passionate self-learner junior backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r0k0r3&label=Profile%20views&color=0e75b6&style=flat" alt="z3r0k0r3" /> </p>
-
-<p align="left"> <a href="https://twitter.com/varachit" target="blank"><img src="https://img.shields.io/twitter/follow/varachit?logo=twitter&style=for-the-badge" alt="varachit" /></a> </p>
+#### A passionate self-learner junior backend developer</h3>
 
 - 🔭 I’m currently working with **vendii**.
 - 🌱 I’m currently learning React, Solidity, and Typescript.
