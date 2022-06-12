@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/varachit" target="blank"><img src="https://img.shields.io/twitter/follow/varachit?logo=twitter&style=for-the-badge" alt="varachit" /></a> </p>
 
-- 📫 How to reach me **varachit.wirunpat@hotmail.com**
-
+- 🔭 I’m currently working with **vendii**.
+- 🌱 I’m currently learning React, Solidity, and Typescript.
+- 🤔 I’m looking for help with advanced in Backend Development.
 - ⚡ Fun fact **I am a kind, serious and non-talkative person but am an easy-going person you could talk with.**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varachit/) or [varachit.wirunpat@hotmail.com](mailto:varachit.wirunpat@hotmail.com?subject=Hello)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
