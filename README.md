@@ -14,9 +14,10 @@
 | React | Node | MySQL | Amazon AWS |
 | Java | Express | PostgreSQL | Heroku |
 | JavaScript | Spring | Redis | Docker |
-| Python | Django | SQLite | Git |
-| HTML | Rest | | Maven
-| CSS | GraphQL | |
+| TypeScript | Django | SQLite | Git |
+| Python | Rest | | Maven
+| HTML | GraphQL | |
+| CSS | | |
 | PHP | | |
 | Bootstrap | | |
 | Material UI | | |
