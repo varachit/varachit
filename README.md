@@ -9,18 +9,18 @@
 
 ### Skills:
 
-| *Frontend* | *Backend* | *Database* | *Devops* |
-| ----- | ----- | ----- | ----- |
-| React | Node | MySQL | Amazon AWS |
-| Java | Express | PostgreSQL | Heroku |
-| JavaScript | Spring | Redis | Docker |
-| TypeScript | Django | SQLite | Git |
-| Python | Rest | | Maven
-| HTML | GraphQL | |
-| CSS | | |
-| PHP | | |
-| Bootstrap | | |
-| Material UI | | |
+| *Frontend* | *Backend* | *Database* | *Devops* | *Analytics*
+| ----- | ----- | ----- | ----- | ----- |
+| React | Node | MySQL | Amazon AWS | Apache Hadoop |
+| Java | Express | PostgreSQL | Heroku | Apache Druid |
+| JavaScript | Spring | SQLite | Docker |
+| TypeScript | Django | Redis | Git |
+| Python | Rest | Elasticsearch | Kafka | | |
+| HTML | GraphQL | | |
+| CSS | tRPC | | |
+| PHP | | | |
+| Bootstrap | | | |
+| Material UI | | | |
 
 
 <h3 align="left">Artificial Intelligence and Machine Learning:</h3>
