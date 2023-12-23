@@ -31,8 +31,5 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-### Statistics
-[![varachit's GitHub Stat](https://github-readme-stats.vercel.app/api?username=varachit&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/varachit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varachit" /></a></p><br><br>
